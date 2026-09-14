@@ -1,0 +1,20 @@
+{
+  "source": "Reference dataset",
+  "updatedAt": "2026-09-14T00:00:00.000Z",
+  "prices": {
+    "MOTHERSON": 112.8,
+    "CROMPTON": 338.4,
+    "VRLLOG": 287.5,
+    "TATAPOWER": 396.2,
+    "HINDZINC": 472.1,
+    "KEC": 894.3,
+    "CARBORUNIV": 945.6,
+    "GODREJCP": 1218.4,
+    "CGPOWER": 742.5,
+    "CLEAN": 1312.8,
+    "ASTRAL": 1486.2,
+    "SUNPHARMA": 1764.6,
+    "RELIANCE": 1388.9,
+    "TCS": 3215.4
+  }
+}
